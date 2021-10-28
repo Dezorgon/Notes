@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FAFAFA</color>
+    <color name="grey_0">#747474</color>
+    <color name="grey_1">#424242</color>
+    <color name="grey_2">#303030</color>
+    <color name="grey_3">#212121</color>
+    <color name="cardColor">#202020</color>
+    <color name="textColor">#FFFFFFFF</color>
+</resources>
